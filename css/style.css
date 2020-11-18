@@ -1,0 +1,8 @@
+.row [class*="col-"]{
+  background-color: pink;
+}
+
+.row .row [class*="col-"]{
+  background-color: rgb(194, 61, 108);
+  border: 1px solid pink;
+}
