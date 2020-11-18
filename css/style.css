@@ -6,4 +6,5 @@
 .row .row [class*="col-"]{
   background-color: rgb(194, 61, 108);
   border: 1px solid pink;
+  line-height: 70px;
 }
